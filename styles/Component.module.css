@@ -1,0 +1,55 @@
+.headerTextContainer{
+    width: 100%;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    display: flex;
+}
+
+.headerText{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.input{
+    width: 20rem;
+    margin-right: 2rem;
+}
+
+.sendButton{
+    width: 30.4rem;
+    margin-top: 0.5rem;
+    background-color: black;
+    color: white;
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+}
+
+.navbarFooterBottom{
+    margin-top: 0.5rem;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 12rem;
+}
+
+.iconContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 10%;
+}
+
+.mailText{
+    font-size: 8px;
+    font-weight: 400;
+    color: white;
+}

@@ -1,0 +1,23 @@
+.navbar{
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    height: 100px !important;
+    align-items: center;
+    padding: 0 12rem;
+}
+.navbarTitleContainer{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+}
+.navbarTitle{
+    font-weight: bold;
+    font-size: 14px;
+    color: black;
+}
+.navbarFooterTitle{
+    font-weight: bold;
+    font-size: 14px;
+    color: white;
+}

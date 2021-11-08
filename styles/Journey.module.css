@@ -1,0 +1,85 @@
+.formContainer{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.formContainerLast{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+}
+
+.insideDiv{
+    width: 40%;
+    height: 550px;
+    margin-top: 2rem;
+    flex-direction: column;
+    display: flex;
+}
+
+.subTitle{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.subTitleHeader{
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+
+.inputContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.5rem;
+    width: 90%;
+}
+
+.inputContainer2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0.5rem;
+    width: 90%;
+}
+
+.select{
+    width: 30.4rem;
+    margin-top: 0.5rem;
+}
+
+.bodyInput{
+    width: 30.4rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.checkboxText{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.bigInput{
+    width: 30.4rem;
+    height: 100px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.stepThreeFooterDiv{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+}
+
+.footer{
+    margin-top: 5%;
+}

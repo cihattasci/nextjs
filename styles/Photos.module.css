@@ -1,0 +1,21 @@
+.mainContainer{
+    justify-content: center;
+    display: flex;
+}
+
+.imageDiv{
+    width: 45%;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.image{
+    margin-top: 2rem;
+}
+
+.footer{
+    margin-top: 5%;
+}
