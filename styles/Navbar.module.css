@@ -12,12 +12,12 @@
     justify-content: space-between;
 }
 .navbarTitle{
-    font-weight: bold;
-    font-size: 14px;
+    font-weight: '700';
+    font-size: 17px;
     color: black;
 }
 .navbarFooterTitle{
-    font-weight: bold;
+    font-weight: '700';
     font-size: 14px;
     color: white;
 }

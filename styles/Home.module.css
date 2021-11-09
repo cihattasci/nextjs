@@ -27,29 +27,55 @@
   border-bottom-left-radius: 20px;
 }
 
+.textDivContainer{
+  display: flex;
+  justify-content: center;
+}
+
 .textDiv{
-  width: 60%;
+  width: 70%;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left:  2rem;
   border-top-right-radius: 20px;
   border-bottom-right-radius: 20px;
 }
 
 .textOne{
   font-weight: bold;
-  font-size: 50px;
+  font-size: 45px;
 }
 
 .textTwo{
   font-weight: '400';
-  font-size: 18px;
-  margin-top: 10px;
+  font-size: 15px;
+  margin-top: 22px;
 }
 
 .textThree{
   font-weight: bold;
-  font-size: 18px;
-  margin-top: 10px;
+  font-size: 15px;
+  margin-top: 5px;
+}
+
+.mailFooter{
+  margin-left: 70%;
+  color: #3D3C3C;
+  margin-top: 3rem;
+  font-size: 12px;
+  display: flex;
+}
+
+.iconContainer{
+  flex-direction: column;
+  justify-content: space-between;
+  display: flex;
+  height: 15%;
+  position: absolute;
+  left: 9%;
+  top: 37%;
+}
+
+.iconColor{
+  color: gray;
 }
